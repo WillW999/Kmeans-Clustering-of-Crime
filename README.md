@@ -1,9 +1,9 @@
-<h1>K-means Clustering of crime locations in Chicago</h1>
+<h1>K-means Clustering of Crime Locations in Chicago</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Using a dateset of crime locations based on their latitude and longitude. Using this data I am able to cluster these data points into crime clusters, giving chicago PD some important information on to where they should be allocating personnel. 
 <br />
 
 
