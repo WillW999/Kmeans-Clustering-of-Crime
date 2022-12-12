@@ -7,14 +7,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environment and Packages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>DataBricks</b>
+- <b>Pandas</b> 
+- <b>Numpy</b>
+- <b>Kmeans from Sklearn</b>
 
 <h2>Program walk-through:</h2>
 
