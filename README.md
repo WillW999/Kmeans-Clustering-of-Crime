@@ -1,7 +1,5 @@
 <h1>K-means Clustering of Crime Locations in Chicago</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Using a dateset of crime locations based on their latitude and longitude. Using this data I am able to cluster these data points into crime clusters, giving chicago PD some important information on to where they should be allocating personnel. 
 <br />
