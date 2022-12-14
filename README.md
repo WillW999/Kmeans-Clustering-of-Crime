@@ -12,34 +12,34 @@ Using a dateset of crime locations based on their latitude and longitude. Using 
 - <b>Numpy</b>
 - <b>Kmeans from Sklearn</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Importing of packages and dataset: <br/>
 <img src="https://i.imgur.com/3En8xCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Splitting dataset into test and train:  <br/>
 <img src="https://i.imgur.com/ZSVRSZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Converting dataset to RDD Array: <br/>
 <img src="https://i.imgur.com/qe19uqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Elbow method to find optimal amount of clusters:  <br/>
 <img src="https://i.imgur.com/9tq4Gk8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Cluster the datapoints:  <br/>
 <img src="https://i.imgur.com/NrrF2J0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Showing cluster assingment by point as well as cluster centers:  <br/>
 <img src="https://i.imgur.com/dgPtrag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Actual cluster locations in Chicago:  <br/>
 <img src="https://i.imgur.com/486ye9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
